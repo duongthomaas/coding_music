@@ -13,7 +13,7 @@ I started learning how to code music!!! This repository contains a collection of
 Instead of writing linear music in a traditional timeline (like Ableton or FL Studio), Strudel allows you to describe **cycles of time** using functions and strings. 
 
 ### Core Concepts of Strudel:
-* **The Cycle:** Time is cyclical. A single string of code represents one full continuous loop of time.
+* **The Cycle:** Time is cyclical. A single string of code represents one full continuous loop of time. And one cycle equals 2 seconds.
 * **Mini-Notation:** Using symbols like brackets `[ ]` to split time, asterisks `*` to multiply speed, and tildes `~` for rests to easily craft intricate drum patterns.
 * **Continuous Transformation:** You can chain modifiers like `.bank()`, `.room()`, `.delay()`, and `.late()` to dynamic, evolving audio landscapes on the fly.
 
